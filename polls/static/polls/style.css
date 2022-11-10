@@ -1,0 +1,24 @@
+li a{
+    color: green;
+}
+a{
+    text-decoration: none;
+}
+.bg-image{
+    background: white url("images/pexels-bg.jpg") no-repeat;
+}
+li.unordered_list{
+    padding-top: 0.40rem;
+    padding-bottom: 0.40rem;
+}
+a.item{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+nav.nav-index{
+    width: 100%;
+}
+h1.main-title{
+    font-size: 2.25rem;
+    text-align: center;
+}
